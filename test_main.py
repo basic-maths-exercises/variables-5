@@ -1,5 +1,5 @@
 import unittest
-import main
+from main import *
 
 class UnitTests(unittest.TestCase) :
     def test_ratio(self) :
