@@ -8,7 +8,7 @@ b = 2*a
 print(b)
 ````
 
-When you insert this code into the code area on the left of the screen the number 18 will be output as the variable a is first set equal to 9 (4+5).  The variable b is then set equal to the value of the variable a, which is 9, multiplied by 2.
+When you insert this code into `main.py` the number 18 will be output as the variable `a` is first set equal to 9 (4+5).  The variable `b` is then set equal to the value of the variable `a`, which is 9, multiplied by 2.
 
 The fact that we can use variables in equations allows us to break up complicated expressions into simpler parts.  Furthermore, if we print out the values of the variables in the simpler parts we can check our working as we move through the calculation.
 
