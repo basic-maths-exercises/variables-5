@@ -18,4 +18,4 @@ class UnitTests(unittest.TestCase) :
        assert( vc.check_vars("numerator",4) )
 
     def test_denominator(self) : 
-       assert( cv.check_vars("denominator",(4+5)*(3+1/2) )
+       assert( vc.check_vars("denominator",7*(10-4) ) )
