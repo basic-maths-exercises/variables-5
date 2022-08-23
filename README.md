@@ -14,7 +14,9 @@ The fact that we can use variables in equations allows us to break up complicate
 
 To see if you understand this idea I want you to evaluate the following expression:
 
-![](https://render.githubusercontent.com/render/math?math=r=\frac{(4%2B5)(3%2B\frac{1}{2})}{7(10-4)})
+$$
+r=\frac{(4+5)(3+\frac{1}{2})}{7(10-4)}
+$$
 
 I want you to do this by following the instructions given below:
 
