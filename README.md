@@ -2,11 +2,11 @@
 
 Congratulations on completing the previous exercise!  Now that you understand how to set variables lets look how we can use them when writing equations.  Consider the following code:
 
-````
+```python
 a = 4+5
 b = 2*a
 print(b)
-````
+```
 
 When you insert this code into `main.py` the number 18 will be output as the variable `a` is first set equal to 9 (4+5).  The variable `b` is then set equal to the value of the variable `a`, which is 9, multiplied by 2.
 
