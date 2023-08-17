@@ -14,9 +14,7 @@ The fact that we can use variables in equations allows us to break up complicate
 
 To see if you understand this idea I want you to evaluate the following expression:
 
-$$
-r=\frac{(4+5)(3+\frac{1}{2})}{7(10-4)}
-$$
+![](equation.png)
 
 I want you to do this by following the instructions given below:
 
